@@ -57,7 +57,7 @@ npx --version
 
 code --version
 git --version
-
+```
 https://github.com/adobe-fonts/source-code-pro
 
 ## update source code pro font
@@ -92,7 +92,7 @@ console.log('hi this is our first .js file')
 var x=3+5
 ```
 ### http://johnny-five.io/
-```
+
 make sure directory:
 C:\Users\Admin\node_JS14hr_Mar_2020
 
