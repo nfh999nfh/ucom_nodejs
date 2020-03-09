@@ -4,3 +4,4 @@ var object1 = {
 }
 object1.foo += object1.bar;
 console.log(object1.foo);
+
