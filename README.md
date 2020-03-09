@@ -1,16 +1,23 @@
-https://nodejs.org/en/
+# Node.JS 14hr
 
-https://d3js.org/
+## Last modified:09-Mar-2020
 
-https://www.tensorflow.org/js
+### `node.JS`,`npm`,`javascript`
 
-https://getbootstrap.com/
+### Important links
+* https://nodejs.org/en/
 
-https://zh-hant.reactjs.org/
+* https://d3js.org/
 
-https://vuejs.org/
+* https://www.tensorflow.org/js
 
-https://angularjs.org/
+* https://getbootstrap.com/
+
+* https://zh-hant.reactjs.org/
+
+* https://vuejs.org/
+
+* https://angularjs.org/
 
 # download
 https://nodejs.org/dist/v12.16.1/node-v12.16.1-x64.msi
@@ -57,7 +64,7 @@ npx --version
 
 code --version
 git --version
-```
+
 https://github.com/adobe-fonts/source-code-pro
 
 ## update source code pro font
@@ -91,8 +98,8 @@ console.log('hi this is our first .js file')
 3+5
 var x=3+5
 ```
-### http://johnny-five.io/
-
+http://johnny-five.io/
+```
 make sure directory:
 C:\Users\Admin\node_JS14hr_Mar_2020
 
@@ -122,5 +129,11 @@ npm init -y
 cd c:\Users\Admin\node_JS14hr_Mar_2020
 code .
 
+## add some plugins
+* npm (egamma)
+* git graph
 
-add plugin, add README.md
+### update npm packages
+```
+npm install npm --global
+```
