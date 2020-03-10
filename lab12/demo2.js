@@ -1,0 +1,6 @@
+setTimeout(()=>{console.log("I am ready1, can start to work")}, 2000)
+setTimeout(()=>{console.log("I am ready2, can start to work")}, 2000)
+setTimeout(()=>{console.log("I am ready3, can start to work")}, 2000)
+setTimeout(()=>{console.log("I am ready4, can start to work")}, 2000)
+setTimeout(()=>{console.log("I am ready5, can start to work")}, 2000)
+console.log("doing something in main thread")

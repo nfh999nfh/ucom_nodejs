@@ -1,4 +1,4 @@
-//"use strict";
+"use strict";
 var x1 = 100
 x2 = 200
 console.log(x1, x2)
