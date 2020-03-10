@@ -1,4 +1,6 @@
 const p1 = new Promise((resolve, reject)=>{
+    console.log("pp")
+    console.log("pps s")
     setTimeout(()=>{
         console.log("ss")
         try{
@@ -9,6 +11,7 @@ const p1 = new Promise((resolve, reject)=>{
             reject(e)
         }
     },2000)
+    console.log("pps e")
 })
 console.log("start p1")
 p1.then(result=>console.log("OK! result="+result))
